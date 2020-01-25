@@ -26,6 +26,9 @@ O mentor inicial da ideia e líder provisório (até 2021) é de identidade desc
 
 * Criar um grupo no facebook
 * Escolher nome da sociedade
+* Criar projeto/empreender
+* Expansão do grupo
+* Simbolo do grupo
 * ??
 
 ## Críticas ao sistema atual:
