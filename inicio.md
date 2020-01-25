@@ -1,6 +1,9 @@
-# introducao
+# Introdução
 
-Procuramos pessoas para formar um grupo/associação/sociedade para criar uma alternativa ao sistema vigente.
+Grupo criado a partir foruns da deep web com o objetivo de criar uma alternativa ao sistema vigente.
+Procuramos pessoas para formar esse grupo/associação/sociedade.
+
+O mentor inicial da ideia e líder provisório (até 2021) é de identidade desconhecida, ninguem nunca saberá quem iniciou esse grupo.
 
 ## Os princípios básicos são:
 
