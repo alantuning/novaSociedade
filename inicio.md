@@ -25,4 +25,5 @@ O mentor inicial da ideia e líder provisório (até 2021) é de identidade desc
 ## ToDo (Coisas a fazer)
 
 * Criar um grupo no facebook
+* Escolher nome da sociedade
 * ??
