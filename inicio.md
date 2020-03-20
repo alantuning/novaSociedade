@@ -10,7 +10,7 @@ O mentor inicial da ideia e líder provisório (até 2021) é de identidade desc
 * Cooperativismo
 * Meritocracia
 * Desenvolvimento sustentavel
-* Cultura focada na honestidade, empatia e conhecimento
+* Nova cultura focada em virtudes (honestidade, empatia, conhecimento)
 * Equidade
 * Transparencia
 * Ciência
@@ -19,13 +19,13 @@ O mentor inicial da ideia e líder provisório (até 2021) é de identidade desc
 
 * Cooperativismo
 * Empreendedorismo
-* Ecovilas
+* Sociedades/Ecovilas
 
 
 ## ToDo (Coisas a fazer)
 
-* Criar um grupo no facebook
-* Escolher nome da sociedade
+*~~ Criar um grupo no facebook (20/03/2020)
+*~~ Escolher nome da sociedade  (20/03/2020)
 * Criar projeto/empreender
 * Expansão do grupo
 * Simbolo do grupo
